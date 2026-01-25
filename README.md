@@ -18,11 +18,7 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How do heatpumps work?](https://niemenjoki.fi/blog/post/how-heatpumps-work)
-- [What caused the Chernobyl 1986 nuclear accident?](https://niemenjoki.fi/blog/post/what-caused-chernobyl-accident)
-- [How to set up a Raspberry Pi headlessly after April 2022 update. No monitor required](https://niemenjoki.fi/blog/post/how-setup-raspberry-pi-without-monitor-april-2022-update)
-- [Raspberry Pi default username/password no longer automatically work with the a fresh install of the latest OS. Here is how to set up your Pi with the latest OS](https://niemenjoki.fi/blog/post/raspberry-pi-default-username-password-no-longer-work)
-- [How did people synchronize time before modern technologies?](https://niemenjoki.fi/blog/post/how-did-people-synchronize-time-in-past)
+- [Kuinka lämpöpumppu toimii - selitys maallikon kielellä](https://www.niemenjoki.fi/blogi/julkaisu/kuinka-lampopumput-toimivat)
 <!-- BLOG-POST-LIST:END -->
 
 
