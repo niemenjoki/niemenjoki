@@ -1,22 +1,24 @@
 ### Hi there, I'm [Joonas Niemenjoki](https://niemenjoki.fi) 👋
 
 ## I'm an engineer with childlike curiosity for learning
-- 🔧 Building automation systems programmer for living
-- 🚀 JavaScript, Python, Linux, Home Assistant programmer for fun
+- 🔧 Building automation systems programmer (IEC 61131-3 ST) and heat pump specialist
+- 🚀 JavaScript, Linux, Home Assistant for fun
 
 ## Me on the Internet:
 
-[<img src="./icons/globe.svg" alt="niemenjoki.fi"  width="30"/>](https://niemenjoki.fi)&nbsp;&nbsp;
-[<img src="./icons/twitter.svg" alt="jnsjknn"  width="30"/>](https://twitter.com/jnsjknn)&nbsp;&nbsp;
-[<img src="./icons/instagram.svg" alt="niemenjoki.dev" width="30"/>](https://www.instagram.com/jnsjknn.dev)&nbsp;&nbsp;
-[<img src="./icons/linkedin.svg" alt="joonasniemenjoki" width="30"/> ](https://www.linkedin.com/in/joonasniemenjoki/)&nbsp;&nbsp;
-[<img src="./icons/reddit.svg" alt="niemenjoki" width="30"/>](https://reddit.com/u/niemenjoki)
+- [Personal website and blog (Finnish)](https://niemenjoki.fi)
+- [LinkedIn](https://fi.linkedin.com/in/joonasniemenjoki/)
+- [Reddit](https://reddit.com/u/niemenjoki)
+- [X](https://x.com/niemenjoki)
+- [Instagram](https://www.instagram.com/jnsjknn.dev)
 
-![jnsjknn](https://github-readme-stats.vercel.app/api/top-langs?username=niemenjoki&show_icons=true&locale=en&layout=compact&theme=dracula)
+## Side projects
 
+- [compress-create-react-app](https://www.npmjs.com/package/compress-create-react-app?activeTab=readme): NPM package for easier post build compression of projects using Create React App.
+- [Lieromaa](https://lieromaa.fi): Composting worm sales and content creation (Finnish).
 
+## Latest Blog Posts (Finnish)
 
-## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Opi PID-säätimen toiminta ohjelmoimalla se kokonaan itse](https://www.niemenjoki.fi/blogi/julkaisu/opi-pid-saatimen-toiminta-ohjelmoimalla)
 - [Lämpöpumppujen liittäminen rakennusautomaatiojärjestelmään](https://www.niemenjoki.fi/blogi/julkaisu/lampopumppujen-liittaminen-rakennusautomaatiojarjestelmaan)
