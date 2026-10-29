@@ -20,9 +20,9 @@
 ## Latest Blog Posts (Finnish)
 
 <!-- BLOG-POST-LIST:START -->
-- [Opi PID-säätimen toiminta ohjelmoimalla se kokonaan itse](https://www.niemenjoki.fi/blogi/julkaisu/opi-pid-saatimen-toiminta-ohjelmoimalla)
+- [PID-säädin käytännössä: toiminta, viritys ja valmis koodi](https://www.niemenjoki.fi/blogi/julkaisu/opi-pid-saatimen-toiminta-ohjelmoimalla)
 - [Lämpöpumppujen liittäminen rakennusautomaatiojärjestelmään](https://www.niemenjoki.fi/blogi/julkaisu/lampopumppujen-liittaminen-rakennusautomaatiojarjestelmaan)
-- [Kuinka lämpöpumppu toimii - selitys maallikon kielellä](https://www.niemenjoki.fi/blogi/julkaisu/kuinka-lampopumput-toimivat)
+- [Lämpöpumpun toimintaperiaate selitettynä maallikon kielellä](https://www.niemenjoki.fi/blogi/julkaisu/kuinka-lampopumput-toimivat)
 <!-- BLOG-POST-LIST:END -->
 
 
