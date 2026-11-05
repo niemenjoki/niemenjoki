@@ -1,15 +1,20 @@
-name: Latest blog post workflow
+name: Latest blog posts
 on:
   schedule:
-    - cron: '0 0 1-31/2 * *'
+    - cron: '0 4 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update the README with the latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v7
+      - uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
-          feed_list: "https://niemenjoki.fi/rss"
+          feed_list: 'https://www.niemenjoki.fi/rss'
+          max_post_count: 5
+          template: '- [$title]($url?utm_source=github&utm_medium=profile&utm_content=blog) $newline'
