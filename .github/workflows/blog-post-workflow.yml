@@ -18,3 +18,4 @@ jobs:
           feed_list: 'https://www.niemenjoki.fi/rss'
           max_post_count: 5
           template: '- [$title]($url?utm_source=github&utm_medium=profile&utm_content=blog) $newline'
+          tag_post_pre_newline: true
