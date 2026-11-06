@@ -23,10 +23,9 @@ IEC 61131-3 Structured Text
 
 ## Latest blog posts (in Finnish)
 
-<!-- BLOG-POST-LIST:START -->
-- [PID-säädin käytännössä: toiminta, viritys ja valmis koodi](https://www.niemenjoki.fi/blogi/julkaisu/opi-pid-saatimen-toiminta-ohjelmoimalla?utm_source=github&utm_medium=profile&utm_content=blog)
-- [Lämpöpumppujen liittäminen rakennusautomaatiojärjestelmään](https://www.niemenjoki.fi/blogi/julkaisu/lampopumppujen-liittaminen-rakennusautomaatiojarjestelmaan?utm_source=github&utm_medium=profile&utm_content=blog)
-- [Lämpöpumpun toimintaperiaate selitettynä maallikon kielellä](https://www.niemenjoki.fi/blogi/julkaisu/kuinka-lampopumput-toimivat?utm_source=github&utm_medium=profile&utm_content=blog)
+<!-- BLOG-POST-LIST:START -->- [PID-säädin käytännössä: toiminta, viritys ja valmis koodi](https://www.niemenjoki.fi/blogi/julkaisu/opi-pid-saatimen-toiminta-ohjelmoimalla?utm_source=github&utm_medium=profile&utm_content=blog) 
+- [Lämpöpumppujen liittäminen rakennusautomaatiojärjestelmään](https://www.niemenjoki.fi/blogi/julkaisu/lampopumppujen-liittaminen-rakennusautomaatiojarjestelmaan?utm_source=github&utm_medium=profile&utm_content=blog) 
+- [Lämpöpumpun toimintaperiaate selitettynä maallikon kielellä](https://www.niemenjoki.fi/blogi/julkaisu/kuinka-lampopumput-toimivat?utm_source=github&utm_medium=profile&utm_content=blog) 
 <!-- BLOG-POST-LIST:END -->
 
 ## Earlier work
