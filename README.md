@@ -4,9 +4,21 @@ I'm a building automation engineer from Finland. At work I program heat pump pla
 systems in IEC 61131-3 Structured Text. In my spare time I build web apps, run my own home server and automate
 my home with Home Assistant.
 
-## What I'm working on
+## Open source
 
-<!-- Looku: add here as the first project when it is released. -->
+- **[Looku](https://github.com/niemenjoki/looku)**: self-hosted, server-side web analytics. One SQLite file and
+  one Docker image, no script in the browser, dashboard in English and Finnish.
+  [Live demo](https://niemenjoki.github.io/looku/demo/) · [documentation](https://niemenjoki.github.io/looku/)
+- **[ha-kryptex](https://github.com/niemenjoki/ha-kryptex)**: Home Assistant integration (HACS) for the Kryptex
+  mining app. Balance, income and every mining GPU, and mining paused when electricity costs more than it earns.
+- **[fi-invoice-payment-slip](https://github.com/niemenjoki/fi-invoice-payment-slip)**: Finnish invoice payment
+  slip (tilisiirto) for PDFKit, with reference numbers, the bank bar code and the bank app QR code.
+  [npm](https://www.npmjs.com/package/@niemenjoki/fi-invoice-payment-slip)
+- **[posti-pickup-points](https://github.com/niemenjoki/posti-pickup-points)**: Posti pickup point and parcel
+  locker search for Node.js, for example for an online shop's checkout.
+  [npm](https://www.npmjs.com/package/@niemenjoki/posti-pickup-points)
+
+## What I'm working on
 
 - **[Lieromaa](https://www.lieromaa.fi/?utm_source=github&utm_medium=profile&utm_content=projects)** ([repo](https://github.com/niemenjoki/lieromaa)): my small vermicomposting
   business. Online shop and guides in Finnish and English, built with Next.js. Orders, invoices and bookkeeping run
