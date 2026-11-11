@@ -9,6 +9,8 @@ my home with Home Assistant.
 - **[Looku](https://github.com/niemenjoki/looku)**: self-hosted, server-side web analytics. One SQLite file and
   one Docker image, no script in the browser, dashboard in English and Finnish.
   [Live demo](https://niemenjoki.github.io/looku/demo/) · [documentation](https://niemenjoki.github.io/looku/)
+- **[ha-looku](https://github.com/niemenjoki/ha-looku)**: Home Assistant integration (HACS) for Looku. Page
+  views, visitors and shop sales of your sites as Home Assistant sensors.
 - **[ha-kryptex](https://github.com/niemenjoki/ha-kryptex)**: Home Assistant integration (HACS) for the Kryptex
   mining app. Balance, income and every mining GPU, and mining paused when electricity costs more than it earns.
 - **[fi-invoice-payment-slip](https://github.com/niemenjoki/fi-invoice-payment-slip)**: Finnish invoice payment
